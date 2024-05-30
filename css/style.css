@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+    text-align: center;
+}
+h1{
+    font-size: 5rem ;
+    font-weight: 700;
+    margin: 50px;
+
+}
+p{
+    font-size: 2.25rem;
+    margin: 30pX;
+
+}
+button{
+    border: none;
+    padding: 10px 30px;
+    margin: 30px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 20px;
+}
